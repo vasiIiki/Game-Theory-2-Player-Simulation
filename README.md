@@ -1,4 +1,4 @@
-# Game-Theory-Simulation---EIC-Project
+# Game-Theory-Simulation - EIC-Project
 # 2-Player Game Theory Simulation
 
 ## Description
